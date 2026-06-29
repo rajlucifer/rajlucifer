@@ -8,13 +8,13 @@
   <a href="https://github.com/rajlucifer">
     <img src="https://img.shields.io/badge/GitHub-rajlucifer-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=0D1117" />
   </a>
-  <a href="https://linkedin.com/in/YourLinkedInProfile">
+  <a href="https://linkedin.com/in/[YOUR_LINKEDIN]">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" />
   </a>
-  <a href="https://twitter.com/YourTwitterHandle">
+  <a href="https://twitter.com/[YOUR_TWITTER]">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=1DA1F2" />
   </a>
-  <a href="https://your-portfolio-url.com">
+  <a href="https://[YOUR_PORTFOLIO].com">
     <img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=8A2BE2&color=8A2BE2" />
   </a>
 </p>
@@ -48,6 +48,7 @@ I'm a **MERN Stack Developer** & **Blockchain Enthusiast** – I build full‑st
   <br/>
   <!-- Blockchain tools -->
   <img src="https://skillicons.dev/icons?i=solidity" />
+  <!-- Replaced with text badges to avoid logo issues -->
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js" />
   <img src="https://img.shields.io/badge/Ethers.js-2535a0?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethers.js" />
   <br/>
@@ -76,7 +77,7 @@ I'm a **MERN Stack Developer** & **Blockchain Enthusiast** – I build full‑st
 <summary><b>📌 Click to see direct repo links</b></summary>
 
 - [Blockchain Voting System](https://github.com/rajlucifer/Blockchain-voting-system)
-- [Traditional Voting System](https://github.com/rajlucifer/voting-sytem)
+- [Traditional Voting System](https://github.com/rajlucifer/voting-system)  <!-- fixed typo: sytem → system -->
 - [Task Manager API](https://github.com/rajlucifer/task-manager)
 - [E‑commerce Backend](https://github.com/rajlucifer/ecommerce-api)
 
@@ -87,16 +88,16 @@ I'm a **MERN Stack Developer** & **Blockchain Enthusiast** – I build full‑st
 ## 📈 GitHub Stats – With Glow Effect
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajlucifer&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajlucifer&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajlucifer&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&cache=0" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajlucifer&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&cache=0" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rajlucifer&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakNum=FFFFFF&sideNums=00F7FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rajlucifer&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakNum=FFFFFF&sideNums=00F7FF&cache=0" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajlucifer&theme=radical&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rajlucifer&theme=radical&no-frame=true&row=2&column=4&margin-w=10&margin-h=10&cache=0" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
@@ -122,10 +123,10 @@ I'm a **MERN Stack Developer** & **Blockchain Enthusiast** – I build full‑st
   <a href="https://github.com/rajlucifer">
     <img src="https://img.shields.io/badge/GitHub-rajlucifer-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
   </a>
-  <a href="mailto:rahul.raj@example.com">
-    <img src="https://img.shields.io/badge/Email-rahul.raj@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:[YOUR_EMAIL]@example.com">
+    <img src="https://img.shields.io/badge/Email-[YOUR_EMAIL]@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YourLinkedInProfile">
+  <a href="https://linkedin.com/in/[YOUR_LINKEDIN]">
     <img src="https://img.shields.io/badge/LinkedIn-Rahul_Raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
