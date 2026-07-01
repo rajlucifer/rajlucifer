@@ -112,15 +112,20 @@ RESTful task management backend.
 </td>
 <td width="50%">
 
-### 🛒 [E-Commerce Backend](https://github.com/rajlucifer/ecommerce-api)
-Backend engine for an online store.
-- Product & order management
-- Razorpay payment gateway integration
-- Secure auth & inventory handling
+### 📸 [InstaPost](https://github.com/rajlucifer/instaPost)
 
-`Node.js` `Express` `MongoDB` `Razorpay`
+A full-stack photo-sharing web app inspired by Instagram, letting users upload images, add captions and tags, like posts, and browse a live feed with search, filtering, and sorting.
 
-</td>
+**Tech Stack:** React, Vite, Tailwind CSS, Node.js, Express, MongoDB (Atlas), Mongoose
+
+**Features:**
+- Drag-and-drop image upload with live preview
+- Caption & tag support with tag-based filtering
+- Like system with persistent counts
+- Search, sort (newest/oldest/most liked), and lightbox gallery view
+- Daily & total upload limits with real-time quota display
+
+🔗 [Live Demo](https://insta-post-6t1u.vercel.app) · [Repo](https://github.com/rajlucifer/instaPost)
 </tr>
 </table>
 
