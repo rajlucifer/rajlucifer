@@ -20,17 +20,25 @@
 
 ## 🚀 About Me
 
-```yaml
-name: Rahul Raj
-role: MERN Stack Developer & Blockchain Enthusiast
-focus: Full-stack web apps + decentralized systems on Ethereum
-currently_building: Blockchain voting DApp (Solidity + Web3.js)
-currently_learning: Smart contract security, advanced React patterns, Next.js
-open_to: MERN + Web3 collaborations
-ask_me_about: [MERN, Solidity, Ethers.js, Web3.js, REST APIs]
-2026_goal: Ship a production-ready voting DApp & contribute to open-source
-fun_fact: My first blockchain transaction was a testnet vote — now I build real voting systems 🗳️
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+I'm a **MERN Stack Developer** who fell down the **Web3 rabbit hole** — now I split my time between building slick full-stack apps and shipping decentralized systems on Ethereum. Think of me as someone who's equally comfortable debugging a React re-render loop and staring at a failed Solidity transaction wondering where my gas went. ⛽
+
 ```
+🔭  Building     →  A blockchain voting DApp (Solidity + Web3.js)
+🌱  Learning     →  Smart contract security, Next.js, advanced React patterns
+🤝  Open to      →  MERN + Web3 collaborations
+💬  Ask me about →  MERN, Solidity, Ethers.js, Web3.js, REST APIs
+🎯  2026 goal    →  Ship a production-ready voting DApp & go open-source
+⚡  Fun fact     →  My first blockchain transaction was a testnet vote —
+                     now I build real voting systems 🗳️
+```
+
+<br/>
+
+> 💡 **Off the keyboard:** always down to talk architecture, dApp ideas, or why gas fees ruin everyone's weekend.
+
+<br clear="right"/>
 
 <br/>
 
