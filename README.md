@@ -138,50 +138,68 @@ A full-stack photo-sharing web app inspired by Instagram, letting users upload i
 
 <br/>
 
-## 🐍 Contribution Snake
+## 😂 Dev Joke of the Moment
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajlucifer/rajlucifer/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajlucifer/rajlucifer/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake animation" width="100%" src="https://raw.githubusercontent.com/rajlucifer/rajlucifer/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://readme-jokes.vercel.app/api" alt="a programming joke, refreshes on every page load" />
 </div>
 
-**Why it usually breaks, and how to fix it:**
-1. The workflow must live in the **same repo as this README** — the special profile repo, which has to be named exactly `rajlucifer` (matching your username). A workflow added to `Blockchain-voting-system` or any other repo will never generate this file.
-2. Create `.github/workflows/snake.yml` in that `rajlucifer` repo with:
+<p align="center"><sub>Refreshes with a new one-liner every time someone loads this page — no GitHub Action, no setup, nothing to maintain.</sub></p>
 
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"   # runs once a day
-  workflow_dispatch: {}
-  push:
-    branches: [ main ]
+<br/>
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: rajlucifer
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-3. Run the workflow once manually (Actions tab → **Generate Snake** → **Run workflow**) so the `output` branch and both SVGs get created — until that first run happens, the image link above will 404.
-4. Make sure **Settings → Actions → Workflow permissions** is set to **Read and write permissions**, otherwise the push to the `output` branch will fail silently.
+## 🌍 Who's Stopping By
+
+<div align="center">
+  <img src="https://mapmyvisitors.com/map.png?cl=00f7ff&w=650&t=tt&d=xhL2XadKA6uJgKp2wYzY7Yq1z1z1z1z1z1z1z1z1z1w&co=ffffff&cmo=00F7FF&cmn=8A2BE2" alt="visitor world map" width="100%" style="max-width:650px" />
+</div>
+
+<p align="center"><sub>Live map of where visitors are checking out this profile from. <a href="https://mapmyvisitors.com/">Grab your own free tracking ID</a> and swap the <code>d=</code> value above with yours (mine is a placeholder) — takes 30 seconds, zero code.</sub></p>
+
+<br/>
+
+## 🎮 Play: Friday 5:58 PM Deploy
+
+You just pushed to `main` right before the weekend. Pick a door — it's genuinely clickable, no JS required, just native GitHub collapsibles.
+
+<details>
+<summary>🚀 Door 1 — Deploy anyway, YOLO</summary>
+<br/>
+
+Prod is up. So is a Sev-1 alert. So are you, until 2 AM.
+You have unlocked: **Weekend Warrior** 🏅 — respect, but also therapy is valid.
+
+<details>
+<summary>↳ Keep going: roll back or push a hotfix?</summary>
+<br/>
+
+You pushed a hotfix on top of a hotfix. `main` now has more patches than a Windows XP install.
+**Result:** it works. Nobody knows why. Nobody touches it again. 🕯️
+
+</details>
+</details>
+
+<details>
+<summary>🧪 Door 2 — Actually run the tests first</summary>
+<br/>
+
+CI goes green. You deploy at 6:01 PM with a clean conscience.
+You have unlocked: **Adult Supervision** 🧑‍💻 — the rarest achievement in this repo.
+
+</details>
+
+<details>
+<summary>🍕 Door 3 — Mute Slack, order pizza, deal with it Monday</summary>
+<br/>
+
+`main` sits untouched all weekend. Monday-you inherits this problem.
+You have unlocked: **Time Traveler** ⏳ — you just delegated a bug to a future version of yourself.
+
+</details>
+
+<br/>
+
+<p align="center"><sub>Play again any time — the doors reset every visit. 😄</sub></p>
 
 <br/>
 
