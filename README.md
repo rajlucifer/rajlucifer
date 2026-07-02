@@ -138,25 +138,7 @@ A full-stack photo-sharing web app inspired by Instagram, letting users upload i
 
 <br/>
 
-## 😂 Dev Joke of the Moment
 
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="a programming joke, refreshes on every page load" />
-</div>
-
-<p align="center"><sub>Refreshes with a new one-liner every time someone loads this page — no GitHub Action, no setup, nothing to maintain.</sub></p>
-
-<br/>
-
-## 🌍 Who's Stopping By
-
-<div align="center">
-  <img src="https://mapmyvisitors.com/map.png?cl=00f7ff&w=650&t=tt&d=xhL2XadKA6uJgKp2wYzY7Yq1z1z1z1z1z1z1z1z1z1w&co=ffffff&cmo=00F7FF&cmn=8A2BE2" alt="visitor world map" width="100%" style="max-width:650px" />
-</div>
-
-<p align="center"><sub>Live map of where visitors are checking out this profile from. <a href="https://mapmyvisitors.com/">Grab your own free tracking ID</a> and swap the <code>d=</code> value above with yours (mine is a placeholder) — takes 30 seconds, zero code.</sub></p>
-
-<br/>
 
 ## 🎮 Play: Friday 5:58 PM Deploy
 
