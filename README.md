@@ -158,7 +158,7 @@ A full-stack photo-sharing web app inspired by Instagram, letting users upload i
   <img src="https://raw.githubusercontent.com/rajlucifer/rajlucifer/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
-> **Setup:** Add [`platane/snk`](https://github.com/Platane/snk) as a GitHub Action in a repo named exactly `rajlucifer` (matching your username) so it commits the generated SVG to an `output` branch — that's what the image above points to.
+> **Setup:** Add [`platane/snk`](https://github.com/rajlucifer) as a GitHub Action in a repo named exactly `rajlucifer` (matching your username) so it commits the generated SVG to an `output` branch — that's what the image above points to.
 
 <br/>
 
