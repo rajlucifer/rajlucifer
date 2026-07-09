@@ -120,8 +120,8 @@ A full-stack photo-sharing web app inspired by Instagram, letting users upload i
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajlucifer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajlucifer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=rajlucifer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rajlucifer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9" />
 </div>
 
 <div align="center">
