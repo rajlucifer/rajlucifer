@@ -6,7 +6,7 @@ on:
     - cron: "0 */6 * * *"
   workflow_dispatch: {}
   push:
-    branches: [main]
+    branches: [main, master]
 
 permissions:
   contents: write
@@ -37,4 +37,4 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add contribution_graph.svg
           git diff --staged --quiet || git commit -m "chore: update live contribution graph [skip ci]"
-          git push
+          git push origin HEAD
