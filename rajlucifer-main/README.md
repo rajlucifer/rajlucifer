@@ -132,14 +132,6 @@ A full-stack photo-sharing web app inspired by Instagram, letting users upload i
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajlucifer&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=8A2BE2" />
 </div>
 
-<!-- Live contribution graph — auto-updated every 6 h by GitHub Actions -->
-<div align="center">
-  <br/>
-  <img src="https://img.shields.io/badge/⚡%20Live%20Contribution%20Graph-auto%20updated%20every%206h-a855f7?style=for-the-badge&labelColor=0b1220" />
-  <br/><br/>
-  <img src="https://raw.githubusercontent.com/rajlucifer/rajlucifer/main/contribution_graph.svg" width="100%"/>
-</div>
-
 <div align="center">
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=rajlucifer&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8" />
 </div>
