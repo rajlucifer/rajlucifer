@@ -29,7 +29,7 @@ I'm a **MERN Stack Developer** who fell down the **Web3 rabbit hole** — now I 
 ```text
 🔭  Building     →  A blockchain voting DApp (Solidity + Web3.js)
 🌱  Learning     →  Smart contract security, Next.js, advanced React patterns
-🤝  Open to      →  MERN + Web3 collaborations ,backend task
+🤝  Open to      →  MERN + Web3 collaborations 
 💬  Ask me about →  MERN, Solidity, Ethers.js, Web3.js, REST APIs, Docker
 🎯  2026 goal    →  Ship a production-ready voting DApp & go open-source
 ⚡  Fun fact     →  My first blockchain transaction was a testnet vote —
