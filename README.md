@@ -85,7 +85,7 @@ Decentralized voting platform built on Ethereum.
 Full-featured MERN voting application.
 - JWT-based authentication
 - Email/SMS OTP verification
-- Live results dashboard,real time voting
+- Live results dashboard 
 
 `MongoDB` `Express` `React` `Node.js`
 
