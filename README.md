@@ -109,7 +109,7 @@ A full-stack photo-sharing web app inspired by Instagram, letting users upload i
 **Features:**
 - Drag-and-drop image upload with live preview
 - Caption & tag support with tag-based filtering
-- Like system with persistent counts
+- Like system with persistent counts, in less time
 - Search, sort (newest/oldest/most liked), and lightbox gallery view
 - Daily & total upload limits with real-time quota display
 
