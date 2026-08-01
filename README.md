@@ -77,7 +77,7 @@ Decentralized voting platform built on Ethereum.
 - Tamper-proof audit trail via smart contracts
 - Admin dashboard to manage candidates
 
-`Solidity` `Web3.js` `React` `Node.js` `MongoDB`,"hardhat'
+`Solidity` `Web3.js` `React` `Node.js` `MongoDB`,`hardhat`'
 
 <br/>
 
