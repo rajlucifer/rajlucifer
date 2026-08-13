@@ -112,7 +112,7 @@ A full-stack photo-sharing web app inspired by Instagram, letting users upload i
 - Like system with persistent counts
 - Search, sort (newest/oldest/most liked), and lightbox gallery view
 - Daily & total upload limits with real-time quota display
-- you can upload limited photos
+- you can upload limited photos per user
 🔗 [Live Demo](https://insta-post-6t1u.vercel.app) · [Repo](https://github.com/rajlucifer/instaPost)
 
 <br/>
