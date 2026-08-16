@@ -138,7 +138,7 @@ A full-stack photo-sharing web app inspired by Instagram, letting users upload i
 </div>
 
 <div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=rajlucifer&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+  <img width="100%" src="https://github-readme-streak-stats-eight.vercel.app?user=rajlucifer&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
 </div>
 
 <div align="center">
