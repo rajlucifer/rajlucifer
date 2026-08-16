@@ -81,6 +81,19 @@ Decentralized voting platform built on Ethereum.
 
 <br/>
 
+### 💬 [FastChat](https://github.com/rajlucifer/fast-chat)
+A full-stack real-time chat application built with React, Node.js, Socket.IO & MongoDB.
+- 🔐 JWT authentication with bcrypt-hashed passwords
+- ⚡ Real-time messaging & online presence via Socket.IO
+- 🖼️ Image sharing powered by Cloudinary
+- 🔔 Unseen message badges & profile management
+
+`React` `Node.js` `Express` `Socket.IO` `MongoDB`
+
+🔗 [Live Demo](https://fast-chat-1h7c.vercel.app/) · [Repo](https://github.com/rajlucifer/fast-chat)
+
+<br/>
+
 ### 🗳️ [Traditional Voting System](https://github.com/rajlucifer/voting-system)
 Full-featured MERN voting application.
 - JWT-based authentication
