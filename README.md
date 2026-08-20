@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Rahul%20Raj&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Blockchain%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Rahul+%F0%9F%91%8B;MERN+Stack+Developer;Blockchain+%2F+Web3+Enthusiast;Building+Decentralized+Voting+DApps;Always+Learning%2C+Always+Building" width="100%" style="max-width:650px"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Rahul+%F0%9F%91%8B;MERN+Stack+Developer;Blockchain+%2F+Web3+Enthusiast;AI-Assisted+%2F+Agentic+Development;Building+Decentralized+Voting+DApps;Always+Learning%2C+Always+Building" width="100%" style="max-width:650px"/>
 
 <p>
   <a href="https://github.com/rajlucifer"><img src="https://img.shields.io/badge/GitHub-rajlucifer-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -26,17 +26,20 @@
 
 I'm a **MERN Stack Developer** who fell down the **Web3 rabbit hole** — now I split my time between building slick full-stack apps and shipping decentralized systems on Ethereum. Think of me as someone who's equally comfortable debugging a React re-render loop and staring at a failed Solidity transaction wondering where my gas went. ⛽
 
+I've also been going deep on **AI-assisted / agentic engineering** — using tools like Claude, Antigravity CLI/IDE, Codex, and DeepSeek not just for autocomplete, but as part of a structured, spec-driven workflow with `agent.md` and `design.md` files to plan architecture before writing code. Think less "vibe coding," more "AI pair-architect."
+
 ```text
 🔭  Building     →  A blockchain voting DApp (Solidity + Web3.js)
 🌱  Learning     →  Smart contract security, Next.js, advanced React patterns
-🤝  Open to      →  MERN + Web3 collaborations 
-💬  Ask me about →  MERN, Solidity, Ethers.js, Web3.js, REST APIs, Docker
-🎯  2026 goal    →  Make a production-ready  software for clients
+🤖  Exploring    →  Agentic dev workflows — Claude, Antigravity CLI/IDE, Codex, DeepSeek
+🤝  Open to      →  MERN + Web3 + AI-assisted dev collaborations
+💬  Ask me about →  MERN, Solidity, Ethers.js, Web3.js, REST APIs, Docker, agentic AI coding
+🎯  2026 goal    →  Make a production-ready software for clients
 ⚡  Fun fact     →  My first blockchain transaction was a testnet vote —
                      now I build real voting systems 🗳️
 ```
 
-> 💡 **Off the keyboard:** always down to talk architecture, dApp ideas, or why gas fees ruin everyone's weekend.
+> 💡 **Off the keyboard:** always down to talk architecture, dApp ideas, agentic coding workflows, or why gas fees ruin everyone's weekend.
 
 <br/>
 
@@ -60,11 +63,30 @@ I'm a **MERN Stack Developer** who fell down the **Web3 rabbit hole** — now I 
 <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white" />
 <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black" />
 
+**AI-Assisted / Agentic Development**
+<br/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Antigravity_CLI%2FIDE-000000?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/DeepSeek-536DFE?style=for-the-badge&logo=deepseek&logoColor=white" />
+<img src="https://img.shields.io/badge/Spec--Driven_Dev-agent.md_%7C_design.md-00F7FF?style=for-the-badge&logo=markdown&logoColor=black" />
+
 **Tools & Platforms**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,vercel" />
 
 </div>
+
+<br/>
+
+## 🤖 AI Engineering / Agentic Workflow
+
+I use AI coding agents as a real part of my dev process, not just for one-off snippets:
+
+- **Spec-first, not prompt-first** — I write `design.md` (architecture, data models, API contracts) and `agent.md` (agent instructions, constraints, coding conventions) before letting an agent touch the codebase.
+- **Tools I use regularly:** Claude, Antigravity CLI/IDE, Codex, DeepSeek — depending on the task (planning vs. codegen vs. debugging).
+- **Why it matters:** structured context files keep AI-generated code consistent with project architecture instead of producing one-off, disconnected patches — closer to working with a well-briefed teammate than a black-box autocomplete.
+- **Applied on:** planning and scaffolding for FastChat, InstaPost, and the Blockchain Voting System below.
 
 <br/>
 
@@ -201,11 +223,12 @@ You have unlocked: **Time Traveler** ⏳ — you just delegated a bug to a futur
 ## 📈 Skill Progress
 
 ```text
-MERN Stack              ██████████░░  90%
-Blockchain / Web3        ████████░░░░  70%
-Next.js                   ████████░░░░  70%
+MERN Stack                 ██████████░░  90%
+Blockchain / Web3          ████████░░░░  70%
+Next.js                    ████████░░░░  70%
 TypeScript                 ███████░░░░░  60%
-Smart Contract Security      █████░░░░░░░  45%
+AI-Assisted / Agentic Dev  ████████░░░░  70%
+Smart Contract Security    █████░░░░░░░  45%
 ```
 
 <br/>
@@ -231,7 +254,7 @@ Smart Contract Security      █████░░░░░░░  45%
 
 <br/><br/>
 
-<i>"MERN + Blockchain = The future of transparent applications."</i>
+<i>"MERN + Blockchain + Agentic AI = The future of how software gets built."</i>
 
 <br/><br/>
 
