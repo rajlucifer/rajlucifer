@@ -14,6 +14,17 @@
 
 <img src="https://komarev.com/ghpvc/?username=rajlucifer&label=Profile%20Views&color=00f7ff&style=for-the-badge" />
 
+<br/>
+
+<p>
+  <a href="#-about-me">About</a> •
+  <a href="#️-tech-stack">Tech Stack</a> •
+  <a href="#-ai-engineering--agentic-workflow">AI Workflow</a> •
+  <a href="#-featured-projects">Projects</a> •
+  <a href="#-github-stats">Stats</a> •
+  <a href="#-lets-connect">Contact</a>
+</p>
+
 </div>
 
 <br/>
@@ -34,7 +45,7 @@ I've also been going deep on **AI-assisted / agentic engineering** — using too
 🤖  Exploring    →  Agentic dev workflows — Claude, Antigravity CLI/IDE, Codex, DeepSeek
 🤝  Open to      →  MERN + Web3 + AI-assisted dev collaborations
 💬  Ask me about →  MERN, Solidity, Ethers.js, Web3.js, REST APIs, Docker, agentic AI coding
-🎯  2026 goal    →  Make a production-ready software for clients
+🎯  2026 goal    →  Ship production-ready software for real clients
 ⚡  Fun fact     →  My first blockchain transaction was a testnet vote —
                      now I build real voting systems 🗳️
 ```
@@ -51,9 +62,13 @@ I've also been going deep on **AI-assisted / agentic engineering** — using too
 <br/>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" />
 
+<br/><br/>
+
 **Backend & Database**
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+
+<br/><br/>
 
 **Blockchain / Web3**
 <br/>
@@ -63,6 +78,8 @@ I've also been going deep on **AI-assisted / agentic engineering** — using too
 <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white" />
 <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black" />
 
+<br/><br/>
+
 **AI-Assisted / Agentic Development**
 <br/>
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
@@ -70,6 +87,8 @@ I've also been going deep on **AI-assisted / agentic engineering** — using too
 <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/DeepSeek-536DFE?style=for-the-badge&logo=deepseek&logoColor=white" />
 <img src="https://img.shields.io/badge/Spec--Driven_Dev-agent.md_%7C_design.md-00F7FF?style=for-the-badge&logo=markdown&logoColor=black" />
+
+<br/><br/>
 
 **Tools & Platforms**
 <br/>
@@ -92,6 +111,10 @@ I use AI coding agents as a real part of my dev process, not just for one-off sn
 
 ## 🔥 Featured Projects
 
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
 ### 🔐 [Blockchain Voting System](https://github.com/rajlucifer/Blockchain-voting-system)
 Decentralized voting platform built on Ethereum.
 - MetaMask wallet authentication
@@ -99,12 +122,13 @@ Decentralized voting platform built on Ethereum.
 - Tamper-proof audit trail via smart contracts
 - Admin dashboard to manage candidates
 
-`Solidity` `Web3.js` `React` `Node.js` `MongoDB`,`hardhat`'
+`Solidity` `Web3.js` `React` `Node.js` `MongoDB` `Hardhat`
 
-<br/>
+</td>
+<td width="50%" valign="top">
 
 ### 💬 [FastChat](https://github.com/rajlucifer/fast-chat)
-A full-stack real-time chat application built with React, Node.js, Socket.IO & MongoDB.
+A full-stack real-time chat app built with React, Node.js, Socket.IO & MongoDB.
 - 🔐 JWT authentication with bcrypt-hashed passwords
 - ⚡ Real-time messaging & online presence via Socket.IO
 - 🖼️ Image sharing powered by Cloudinary
@@ -114,17 +138,21 @@ A full-stack real-time chat application built with React, Node.js, Socket.IO & M
 
 🔗 [Live Demo](https://fast-chat-1h7c.vercel.app/) · [Repo](https://github.com/rajlucifer/fast-chat)
 
-<br/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🗳️ [Traditional Voting System](https://github.com/rajlucifer/voting-system)
 Full-featured MERN voting application.
 - JWT-based authentication
 - Email/SMS OTP verification
-- Live results dashboard 
+- Live results dashboard
 
 `MongoDB` `Express` `React` `Node.js`
 
-<br/>
+</td>
+<td width="50%" valign="top">
 
 ### 📝 [Task Manager API](https://github.com/rajlucifer/task-manager)
 RESTful task management backend.
@@ -134,7 +162,9 @@ RESTful task management backend.
 
 `Node.js` `Express` `MongoDB`
 
-<br/>
+</td>
+</tr>
+</table>
 
 ### 📸 [InstaPost](https://github.com/rajlucifer/instaPost)
 A full-stack photo-sharing web app inspired by Instagram, letting users upload images, add captions and tags, like posts, and browse a live feed with search, filtering, and sorting.
@@ -146,8 +176,8 @@ A full-stack photo-sharing web app inspired by Instagram, letting users upload i
 - Caption & tag support with tag-based filtering
 - Like system with persistent counts
 - Search, sort (newest/oldest/most liked), and lightbox gallery view
-- Daily & total upload limits with real-time quota display
-- you can upload limited photos per user
+- Daily & total upload limits with real-time quota display, capped per user
+
 🔗 [Live Demo](https://insta-post-6t1u.vercel.app) · [Repo](https://github.com/rajlucifer/instaPost)
 
 <br/>
@@ -172,8 +202,6 @@ A full-stack photo-sharing web app inspired by Instagram, letting users upload i
 </div>
 
 <br/>
-
-
 
 ## 🎮 Play: Friday 5:58 PM Deploy
 
