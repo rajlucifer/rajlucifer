@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Rahul%20Raj&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Blockchain%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Rahul%20Raj&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Rahul+%F0%9F%91%8B;MERN+Stack+Developer;Blockchain+%2F+Web3+Enthusiast;AI-Assisted+%2F+Agentic+Development;Building+Decentralized+Voting+DApps;Always+Learning%2C+Always+Building" width="100%" style="max-width:650px"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Rahul+%F0%9F%91%8B;MERN+Stack+Developer;React+%2F+Node.js+%2F+MongoDB;AI-Assisted+%2F+Agentic+Development;Dabbling+in+Blockchain+on+the+side;Always+Learning%2C+Always+Building" width="100%" style="max-width:650px"/>
 
 <p>
   <a href="https://github.com/rajlucifer"><img src="https://img.shields.io/badge/GitHub-rajlucifer-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -35,22 +35,24 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" style="max-width:80%;border-radius:8px" />
 </div>
 
-I'm a **MERN Stack Developer** who fell down the **Web3 rabbit hole** — now I split my time between building slick full-stack apps and shipping decentralized systems on Ethereum. Think of me as someone who's equally comfortable debugging a React re-render loop and staring at a failed Solidity transaction wondering where my gas went. ⛽
+I'm a **MERN Stack Developer** who loves building full-stack web apps end to end — from designing REST APIs and data models in **Node.js / Express / MongoDB**, to shipping clean, responsive UIs in **React**. I care about writing code that's scalable, well-structured, and actually pleasant for the next developer to work with.
 
 I've also been going deep on **AI-assisted / agentic engineering** — using tools like Claude, Antigravity CLI/IDE, Codex, and DeepSeek not just for autocomplete, but as part of a structured, spec-driven workflow with `agent.md` and `design.md` files to plan architecture before writing code. Think less "vibe coding," more "AI pair-architect."
 
+On the side, I dabble in **Web3 / blockchain** — enough to have built a working Solidity-based voting DApp — but my main focus stays full-stack JavaScript development.
+
 ```text
-🔭  Building     →  A blockchain voting DApp (Solidity + Web3.js)
-🌱  Learning     →  Smart contract security, Next.js, advanced React patterns
+🔭  Building     →  Full-stack apps with the MERN stack
+🌱  Learning     →  Next.js, advanced React patterns, TypeScript
 🤖  Exploring    →  Agentic dev workflows — Claude, Antigravity CLI/IDE, Codex, DeepSeek
-🤝  Open to      →  MERN + Web3 + AI-assisted dev collaborations
-💬  Ask me about →  MERN, Solidity, Ethers.js, Web3.js, REST APIs, Docker, agentic AI coding
+🤝  Open to      →  MERN + AI-assisted dev collaborations
+💬  Ask me about →  MongoDB, Express, React, Node.js, REST APIs, Docker, agentic AI coding
 🎯  2026 goal    →  Ship production-ready software for real clients
-⚡  Fun fact     →  My first blockchain transaction was a testnet vote —
-                     now I build real voting systems 🗳️
+⚡  Fun fact     →  I once debugged a React re-render loop for 3 hours —
+                     turned out to be a missing dependency array 😅
 ```
 
-> 💡 **Off the keyboard:** always down to talk architecture, dApp ideas, agentic coding workflows, or why gas fees ruin everyone's weekend.
+> 💡 **Off the keyboard:** always down to talk architecture, app ideas, or agentic coding workflows.
 
 <br/>
 
@@ -70,16 +72,6 @@ I've also been going deep on **AI-assisted / agentic engineering** — using too
 
 <br/><br/>
 
-**Blockchain / Web3**
-<br/>
-<img src="https://skillicons.dev/icons?i=solidity" />
-<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white" />
-<img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white" />
-<img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black" />
-
-<br/><br/>
-
 **AI-Assisted / Agentic Development**
 <br/>
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
@@ -94,6 +86,14 @@ I've also been going deep on **AI-assisted / agentic engineering** — using too
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,vercel" />
 
+<br/><br/>
+
+**Also Exploring: Web3 / Blockchain**
+<br/>
+<img src="https://skillicons.dev/icons?i=solidity" />
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black" />
+
 </div>
 
 <br/>
@@ -105,7 +105,7 @@ I use AI coding agents as a real part of my dev process, not just for one-off sn
 - **Spec-first, not prompt-first** — I write `design.md` (architecture, data models, API contracts) and `agent.md` (agent instructions, constraints, coding conventions) before letting an agent touch the codebase.
 - **Tools I use regularly:** Claude, Antigravity CLI/IDE, Codex, DeepSeek — depending on the task (planning vs. codegen vs. debugging).
 - **Why it matters:** structured context files keep AI-generated code consistent with project architecture instead of producing one-off, disconnected patches — closer to working with a well-briefed teammate than a black-box autocomplete.
-- **Applied on:** planning and scaffolding for FastChat, InstaPost, and the Blockchain Voting System below.
+- **Applied on:** planning and scaffolding for FastChat, InstaPost, and the Traditional Voting System below.
 
 <br/>
 
@@ -113,18 +113,6 @@ I use AI coding agents as a real part of my dev process, not just for one-off sn
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
-
-### 🔐 [Blockchain Voting System](https://github.com/rajlucifer/Blockchain-voting-system)
-Decentralized voting platform built on Ethereum.
-- MetaMask wallet authentication
-- Real-time, on-chain vote counting
-- Tamper-proof audit trail via smart contracts
-- Admin dashboard to manage candidates
-
-`Solidity` `Web3.js` `React` `Node.js` `MongoDB` `Hardhat`
-
-</td>
 <td width="50%" valign="top">
 
 ### 💬 [FastChat](https://github.com/rajlucifer/fast-chat)
@@ -137,6 +125,20 @@ A full-stack real-time chat app built with React, Node.js, Socket.IO & MongoDB.
 `React` `Node.js` `Express` `Socket.IO` `MongoDB`
 
 🔗 [Live Demo](https://fast-chat-1h7c.vercel.app/) · [Repo](https://github.com/rajlucifer/fast-chat)
+
+</td>
+<td width="50%" valign="top">
+
+### 📸 [InstaPost](https://github.com/rajlucifer/instaPost)
+A full-stack photo-sharing web app inspired by Instagram.
+- Drag-and-drop image upload with live preview
+- Caption & tag support with tag-based filtering
+- Like system with persistent counts
+- Search, sort, and lightbox gallery view
+
+`React` `Vite` `Tailwind CSS` `Node.js` `Express` `MongoDB`
+
+🔗 [Live Demo](https://insta-post-6t1u.vercel.app) · [Repo](https://github.com/rajlucifer/instaPost)
 
 </td>
 </tr>
@@ -166,19 +168,10 @@ RESTful task management backend.
 </tr>
 </table>
 
-### 📸 [InstaPost](https://github.com/rajlucifer/instaPost)
-A full-stack photo-sharing web app inspired by Instagram, letting users upload images, add captions and tags, like posts, and browse a live feed with search, filtering, and sorting.
+### 🔐 [Blockchain Voting System](https://github.com/rajlucifer/Blockchain-voting-system) *(side project)*
+A decentralized voting platform on Ethereum with MetaMask login and on-chain vote counting — built to explore how a MERN frontend/backend pairs with a Solidity smart contract.
 
-**Tech Stack:** React, Vite, Tailwind CSS, Node.js, Express, MongoDB (Atlas), Mongoose
-
-**Features:**
-- Drag-and-drop image upload with live preview
-- Caption & tag support with tag-based filtering
-- Like system with persistent counts
-- Search, sort (newest/oldest/most liked), and lightbox gallery view
-- Daily & total upload limits with real-time quota display, capped per user
-
-🔗 [Live Demo](https://insta-post-6t1u.vercel.app) · [Repo](https://github.com/rajlucifer/instaPost)
+`Solidity` `Web3.js` `React` `Node.js` `MongoDB` `Hardhat`
 
 <br/>
 
@@ -252,11 +245,13 @@ You have unlocked: **Time Traveler** ⏳ — you just delegated a bug to a futur
 
 ```text
 MERN Stack                 ██████████░░  90%
-Blockchain / Web3          ████████░░░░  70%
+React / Frontend           █████████░░░  85%
+Node.js / Express          █████████░░░  80%
+MongoDB                    ████████░░░░  75%
 Next.js                    ████████░░░░  70%
 TypeScript                 ███████░░░░░  60%
 AI-Assisted / Agentic Dev  ████████░░░░  70%
-Smart Contract Security    █████░░░░░░░  45%
+Blockchain / Web3          █████░░░░░░░  40%
 ```
 
 <br/>
@@ -282,7 +277,7 @@ Smart Contract Security    █████░░░░░░░  45%
 
 <br/><br/>
 
-<i>"MERN + Blockchain + Agentic AI = The future of how software gets built."</i>
+<i>"MERN + Agentic AI = The future of how software gets built."</i>
 
 <br/><br/>
 
