@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Rahul%20Raj&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:6C63FF,100:8A2BE2&height=220&section=header&text=Rahul%20Raj&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=MERN%20Stack%20Developer%20%7C%20AI-Assisted%20Engineering&descAlignY=52&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Rahul+%F0%9F%91%8B;MERN+Stack+Developer;React+%2F+Node.js+%2F+MongoDB;AI-Assisted+%2F+Agentic+Development;Dabbling+in+Blockchain+on+the+side;Always+Learning%2C+Always+Building" width="100%" style="max-width:650px"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=680&lines=Hi+there%2C+I'm+Rahul+%F0%9F%91%8B;MERN+Stack+Developer;React+%2F+Node.js+%2F+MongoDB;AI-Assisted+%2F+Agentic+Development;Dabbling+in+Blockchain+on+the+side;Always+Learning%2C+Always+Building" width="100%" style="max-width:680px"/>
+
+<br/>
 
 <p>
   <a href="https://github.com/rajlucifer"><img src="https://img.shields.io/badge/GitHub-rajlucifer-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -22,17 +24,18 @@
   <a href="#-ai-engineering--agentic-workflow">AI Workflow</a> •
   <a href="#-featured-projects">Projects</a> •
   <a href="#-github-stats">Stats</a> •
+  <a href="#-play-friday-558-pm-deploy">Play</a> •
   <a href="#-lets-connect">Contact</a>
 </p>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3&section=header" width="100%"/>
 
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" style="max-width:80%;border-radius:8px" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" style="max-width:80%;border-radius:10px" />
 </div>
 
 I'm a **MERN Stack Developer** who loves building full-stack web apps end to end — from designing REST APIs and data models in **Node.js / Express / MongoDB**, to shipping clean, responsive UIs in **React**. I care about writing code that's scalable, well-structured, and actually pleasant for the next developer to work with.
@@ -192,6 +195,18 @@ A decentralized voting platform on Ethereum with MetaMask login and on-chain vot
 
 <div align="center">
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=rajlucifer&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8" />
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/rajlucifer/rajlucifer/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake animation" />
+
+<sub>Add the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to your profile repo to generate this automatically.</sub>
+
 </div>
 
 <br/>
