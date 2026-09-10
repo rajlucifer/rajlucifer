@@ -199,18 +199,6 @@ A decentralized voting platform on Ethereum with MetaMask login and on-chain vot
 
 <br/>
 
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/rajlucifer/rajlucifer/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake animation" />
-
-<sub>Add the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to your profile repo to generate this automatically.</sub>
-
-</div>
-
-<br/>
-
 ## 🎮 Play: Friday 5:58 PM Deploy
 
 You just pushed to `main` right before the weekend. Pick a door — it's genuinely clickable, no JS required, just native GitHub collapsibles.
