@@ -38,7 +38,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" style="max-width:80%;border-radius:10px" />
 </div>
 
-I'm a **MERN Stack Developer** who loves building full-stack web apps end to end — from designing REST APIs and data models in **Node.js / Express / MongoDB**, to shipping clean, responsive UIs in **React**. I care about writing code that's scalable, well-structured, and actually pleasant for the next developer to work with.
+I'm a **MERN Stack Developer** who loves building full-stack web apps end to end — from designing REST APIs and data models in **Node.js / Express / MongoDB**, to shipping clean, responsive UIs in **React**. I care about writing code that's scalable, well-structured, and pleasant for the next developer to work with.
 
 I've also been going deep on **AI-assisted / agentic engineering** — using tools like Claude, Antigravity CLI/IDE, Codex, and DeepSeek not just for autocomplete, but as part of a structured, spec-driven workflow with `agent.md` and `design.md` files to plan architecture before writing code. Think less "vibe coding," more "AI pair-architect."
 
@@ -105,10 +105,12 @@ On the side, I dabble in **Web3 / blockchain** — enough to have built a workin
 
 I use AI coding agents as a real part of my dev process, not just for one-off snippets:
 
-- **Spec-first, not prompt-first** — I write `design.md` (architecture, data models, API contracts) and `agent.md` (agent instructions, constraints, coding conventions) before letting an agent touch the codebase.
-- **Tools I use regularly:** Claude, Antigravity CLI/IDE, Codex, DeepSeek — depending on the task (planning vs. codegen vs. debugging).
-- **Why it matters:** structured context files keep AI-generated code consistent with project architecture instead of producing one-off, disconnected patches — closer to working with a well-briefed teammate than a black-box autocomplete.
-- **Applied on:** planning and scaffolding for FastChat, InstaPost, and the Traditional Voting System below.
+| Principle | What it means in practice |
+|---|---|
+| **Spec-first, not prompt-first** | I write `design.md` (architecture, data models, API contracts) and `agent.md` (agent instructions, constraints, coding conventions) *before* letting an agent touch the codebase. |
+| **Right tool for the task** | Claude, Antigravity CLI/IDE, Codex, and DeepSeek — chosen depending on whether I'm planning, generating code, or debugging. |
+| **Why it matters** | Structured context files keep AI-generated code consistent with project architecture instead of producing one-off, disconnected patches — closer to working with a well-briefed teammate than a black-box autocomplete. |
+| **Applied on** | Planning and scaffolding for FastChat, InstaPost, and the Traditional Voting System below. |
 
 <br/>
 
@@ -199,6 +201,21 @@ A decentralized voting platform on Ethereum with MetaMask login and on-chain vot
 
 <br/>
 
+## 📈 Skill Progress
+
+```text
+MERN Stack                 ██████████░░  90%
+React / Frontend           █████████░░░  85%
+Node.js / Express          █████████░░░  80%
+MongoDB                    ████████░░░░  75%
+Next.js                    ████████░░░░  70%
+TypeScript                 ███████░░░░░  60%
+AI-Assisted / Agentic Dev  ████████░░░░  70%
+Blockchain / Web3          █████░░░░░░░  40%
+```
+
+<br/>
+
 ## 🎮 Play: Friday 5:58 PM Deploy
 
 You just pushed to `main` right before the weekend. Pick a door — it's genuinely clickable, no JS required, just native GitHub collapsibles.
@@ -241,21 +258,6 @@ You have unlocked: **Time Traveler** ⏳ — you just delegated a bug to a futur
 <br/>
 
 <p align="center"><sub>Play again any time — the doors reset every visit. 😄</sub></p>
-
-<br/>
-
-## 📈 Skill Progress
-
-```text
-MERN Stack                 ██████████░░  90%
-React / Frontend           █████████░░░  85%
-Node.js / Express          █████████░░░  80%
-MongoDB                    ████████░░░░  75%
-Next.js                    ████████░░░░  70%
-TypeScript                 ███████░░░░░  60%
-AI-Assisted / Agentic Dev  ████████░░░░  70%
-Blockchain / Web3          █████░░░░░░░  40%
-```
 
 <br/>
 
