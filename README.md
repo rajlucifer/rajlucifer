@@ -110,7 +110,7 @@ I use AI coding agents as a real part of my dev process, not just for one-off sn
 | **Spec-first, not prompt-first** | I write `design.md` (architecture, data models, API contracts) and `agent.md` (agent instructions, constraints, coding conventions) *before* letting an agent touch the codebase. |
 | **Right tool for the task** | Claude, Antigravity CLI/IDE, Codex, and DeepSeek — chosen depending on whether I'm planning, generating code, or debugging. |
 | **Why it matters** | Structured context files keep AI-generated code consistent with project architecture instead of producing one-off, disconnected patches — closer to working with a well-briefed teammate than a black-box autocomplete. |
-| **Applied on** | Planning and scaffolding for FastChat, InstaPost, and the Traditional Voting System below. |
+| **Applied on** | Planning and scaffolding for FastChat, InstaPost|
 
 <br/>
 
