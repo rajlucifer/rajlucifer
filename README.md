@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:6C63FF,100:8A2BE2&height=220&section=header&text=Rahul%20Raj&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=MERN%20Stack%20Developer%20%7C%20AI-Assisted%20Engineering&descAlignY=52&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFDEE9,50:B5FFFC,100:C9C9FF&height=260&section=header&text=Rahul%20Raj&fontSize=58&fontColor=4B4453&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%E2%80%A2%20AI-Assisted%20Engineering&descAlignY=55&descSize=16&fontFamily=Poppins" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=680&lines=Hi+there%2C+I'm+Rahul+%F0%9F%91%8B;MERN+Stack+Developer;React+%2F+Node.js+%2F+MongoDB;AI-Assisted+%2F+Agentic+Development;Dabbling+in+Blockchain+on+the+side;Always+Learning%2C+Always+Building" width="100%" style="max-width:680px"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3200&pause=900&color=8A7CA8&center=true&vCenter=true&width=680&lines=Hi+there%2C+I'm+Rahul+%E2%9C%A8;MERN+Stack+Developer;React+%2F+Node.js+%2F+MongoDB;AI-Assisted+%2F+Agentic+Development;Dabbling+in+Blockchain+on+the+side;Always+Learning%2C+Always+Building" width="100%" style="max-width:680px"/>
 
 <br/>
 
 <p>
-  <a href="https://github.com/rajlucifer"><img src="https://img.shields.io/badge/GitHub-rajlucifer-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://portfolio-website-ivory-theta-11.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/rajlucifer"><img src="https://img.shields.io/badge/GitHub-rajlucifer-F5EEDC?style=for-the-badge&logo=github&logoColor=4B4453" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-D8E2DC?style=for-the-badge&logo=linkedin&logoColor=4B4453" /></a>
+  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-Follow-FFE5D9?style=for-the-badge&logo=twitter&logoColor=4B4453" /></a>
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact-FFCAD4?style=for-the-badge&logo=gmail&logoColor=4B4453" /></a>
+  <a href="https://portfolio-website-ivory-theta-11.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-C9C9FF?style=for-the-badge&logo=vercel&logoColor=4B4453" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=rajlucifer&label=Profile%20Views&color=00f7ff&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=rajlucifer&label=Profile%20Views&color=c9c9ff&style=for-the-badge" />
 
 <br/>
 
@@ -30,7 +30,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:C9C9FF,100:FFDEE9&height=3&section=header" width="100%"/>
 
 ## 🚀 About Me
 
@@ -81,7 +81,7 @@ On the side, I dabble in **Web3 / blockchain** — enough to have built a workin
 <img src="https://img.shields.io/badge/Antigravity_CLI%2FIDE-000000?style=for-the-badge&logo=googlegemini&logoColor=white" />
 <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/DeepSeek-536DFE?style=for-the-badge&logo=deepseek&logoColor=white" />
-<img src="https://img.shields.io/badge/Spec--Driven_Dev-agent.md_%7C_design.md-00F7FF?style=for-the-badge&logo=markdown&logoColor=black" />
+<img src="https://img.shields.io/badge/Spec--Driven_Dev-agent.md_%7C_design.md-C9C9FF?style=for-the-badge&logo=markdown&logoColor=black" />
 
 <br/><br/>
 
@@ -290,4 +290,4 @@ You have unlocked: **Time Traveler** ⏳ — you just delegated a bug to a futur
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:C9C9FF,100:FFDEE9&height=100&section=footer" width="100%"/>
