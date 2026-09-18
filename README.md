@@ -48,7 +48,7 @@ On the side, I dabble in **Web3 / blockchain** — enough to have built a workin
 🔭  Building     →  Full-stack apps with the MERN stack
 🌱  Learning     →  Next.js, advanced React patterns, TypeScript
 🤖  Exploring    →  Agentic dev workflows — Claude, Antigravity CLI/IDE, Codex, DeepSeek
-🤝  Open to      →  MERN + AI-assisted dev collaborations
+🤝  Open to      →  MERN + AI-assisted dev collaborations anytime
 💬  Ask me about →  MongoDB, Express, React, Node.js, REST APIs, Docker, agentic AI coding
 🎯  2026 goal    →  Ship production-ready software for real clients
 ⚡  Fun fact     →  I once debugged a React re-render loop for 3 hours —
