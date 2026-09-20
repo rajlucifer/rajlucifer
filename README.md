@@ -1,26 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFDEE9,50:B5FFFC,100:C9C9FF&height=260&section=header&text=Rahul%20Raj&fontSize=58&fontColor=4B4453&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%E2%80%A2%20AI-Assisted%20Engineering&descAlignY=55&descSize=16&fontFamily=Poppins" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFDEE9,50:B5FFFC,100:C9C9FF&height=260&section=header&text=Rahul%20Raj&fontSize=58&fontColor=4B4453&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%E2%80%A2%20AI-Assisted%20Engineering&descAlignY=55&descSize=16&fontFamily=Poppins" width="100%" alt="Rahul Raj — MERN Stack Developer • AI-Assisted Engineering"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3200&pause=900&color=8A7CA8&center=true&vCenter=true&width=680&lines=Hi+there%2C+I'm+Rahul+%E2%9C%A8;MERN+Stack+Developer;React+%2F+Node.js+%2F+MongoDB;AI-Assisted+%2F+Agentic+Development;Dabbling+in+Blockchain+on+the+side;Always+Learning%2C+Always+Building" width="100%" style="max-width:680px"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3200&pause=900&color=8A7CA8&center=true&vCenter=true&width=680&lines=Hi+there%2C+I%27m+Rahul+%E2%9C%A8;MERN+Stack+Developer;React+%2F+Node.js+%2F+MongoDB;AI-Assisted+%2F+Agentic+Development;Dabbling+in+Blockchain+on+the+side;Always+Learning%2C+Always+Building" width="680" alt="Typing animation: MERN Stack Developer, React / Node.js / MongoDB, AI-Assisted / Agentic Development"/>
 
 <br/>
 
 <p>
-  <a href="https://github.com/rajlucifer"><img src="https://img.shields.io/badge/GitHub-rajlucifer-F5EEDC?style=for-the-badge&logo=github&logoColor=4B4453" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-D8E2DC?style=for-the-badge&logo=linkedin&logoColor=4B4453" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-Follow-FFE5D9?style=for-the-badge&logo=twitter&logoColor=4B4453" /></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact-FFCAD4?style=for-the-badge&logo=gmail&logoColor=4B4453" /></a>
-  <a href="https://portfolio-website-ivory-theta-11.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-C9C9FF?style=for-the-badge&logo=vercel&logoColor=4B4453" /></a>
+  <a href="https://github.com/rajlucifer"><img src="https://img.shields.io/badge/GitHub-rajlucifer-F5EEDC?style=for-the-badge&logo=github&logoColor=4B4453" alt="GitHub"/></a>
+  <a href="https://portfolio-website-ivory-theta-11.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-C9C9FF?style=for-the-badge&logo=vercel&logoColor=4B4453" alt="Portfolio"/></a>
+  <!-- TODO: uncomment each badge after replacing the placeholder with your real link
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-D8E2DC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iNC45IiBjeT0iNC42IiByPSIyLjQiIGZpbGw9IiM0QjQ0NTMiLz48cmVjdCB4PSIyLjgiIHk9IjkiIHdpZHRoPSI0LjMiIGhlaWdodD0iMTIuMiIgZmlsbD0iIzRCNDQ1MyIvPjxwYXRoIGZpbGw9IiM0QjQ0NTMiIGQ9Ik05LjYgOWg0LjF2MS44Yy42LTEuMSAyLjEtMi4xIDQuMi0yLjEgNC4zIDAgNS4xIDIuOCA1LjEgNi41djYuMWgtNC4zdi01LjRjMC0xLjMgMC0yLjktMS44LTIuOXMtMi4xIDEuNC0yLjEgMi44djUuNUg5LjZ6Ii8+PC9zdmc+" alt="LinkedIn"/></a>
+  <a href="https://x.com/YOUR_X_HANDLE"><img src="https://img.shields.io/badge/X-Follow-FFE5D9?style=for-the-badge&logo=x&logoColor=4B4453" alt="X (Twitter)"/></a>
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact-FFCAD4?style=for-the-badge&logo=gmail&logoColor=4B4453" alt="Email"/></a>
+  -->
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=rajlucifer&label=Profile%20Views&color=c9c9ff&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=rajlucifer&label=Profile%20Views&color=c9c9ff&style=for-the-badge" alt="Profile views"/>
 
-<br/>
+<br/><br/>
 
 <p>
   <a href="#-about-me">About</a> •
-  <a href="#️-tech-stack">Tech Stack</a> •
+  <a href="#-tech-stack">Tech Stack</a> •
   <a href="#-ai-engineering--agentic-workflow">AI Workflow</a> •
   <a href="#-featured-projects">Projects</a> •
   <a href="#-github-stats">Stats</a> •
@@ -30,13 +32,15 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:C9C9FF,100:FFDEE9&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9C9FF,100:FFDEE9&height=3&section=header" width="100%" alt=""/>
 
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" style="max-width:80%;border-radius:10px" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding animation"/>
 </div>
+
+<br/>
 
 I'm a **MERN Stack Developer** who loves building full-stack web apps end to end — from designing REST APIs and data models in **Node.js / Express / MongoDB**, to shipping clean, responsive UIs in **React**. I care about writing code that's scalable, well-structured, and pleasant for the next developer to work with.
 
@@ -59,43 +63,43 @@ On the side, I dabble in **Web3 / blockchain** — enough to have built a workin
 
 <br/>
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Redux"/>
 
 <br/><br/>
 
 **Backend & Database**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="Node.js, Express, MongoDB, MySQL, Firebase"/>
 
 <br/><br/>
 
 **AI-Assisted / Agentic Development**
 <br/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Antigravity_CLI%2FIDE-000000?style=for-the-badge&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/DeepSeek-536DFE?style=for-the-badge&logo=deepseek&logoColor=white" />
-<img src="https://img.shields.io/badge/Spec--Driven_Dev-agent.md_%7C_design.md-C9C9FF?style=for-the-badge&logo=markdown&logoColor=black" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+<img src="https://img.shields.io/badge/Antigravity_CLI%2FIDE-000000?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Antigravity CLI/IDE"/>
+<img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex"/>
+<img src="https://img.shields.io/badge/DeepSeek-536DFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek"/>
+<img src="https://img.shields.io/badge/Spec--Driven_Dev-agent.md_%7C_design.md-C9C9FF?style=for-the-badge&logo=markdown&logoColor=black" alt="Spec-driven development: agent.md and design.md"/>
 
 <br/><br/>
 
 **Tools & Platforms**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,vercel" alt="Git, GitHub, Docker, Linux, Postman, VS Code, Vercel"/>
 
 <br/><br/>
 
 **Also Exploring: Web3 / Blockchain**
 <br/>
-<img src="https://skillicons.dev/icons?i=solidity" />
-<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black" />
+<img src="https://skillicons.dev/icons?i=solidity" alt="Solidity"/>
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3.js"/>
+<img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black" alt="Hardhat"/>
 
 </div>
 
@@ -110,7 +114,7 @@ I use AI coding agents as a real part of my dev process, not just for one-off sn
 | **Spec-first, not prompt-first** | I write `design.md` (architecture, data models, API contracts) and `agent.md` (agent instructions, constraints, coding conventions) *before* letting an agent touch the codebase. |
 | **Right tool for the task** | Claude, Antigravity CLI/IDE, Codex, and DeepSeek — chosen depending on whether I'm planning, generating code, or debugging. |
 | **Why it matters** | Structured context files keep AI-generated code consistent with project architecture instead of producing one-off, disconnected patches — closer to working with a well-briefed teammate than a black-box autocomplete. |
-| **Applied on** | Planning and scaffolding for FastChat, InstaPost|
+| **Applied on** | Planning and scaffolding for FastChat and InstaPost. |
 
 <br/>
 
@@ -150,7 +154,7 @@ A full-stack photo-sharing web app inspired by Instagram.
 <tr>
 <td width="50%" valign="top">
 
-### 🗳️ [Traditional Voting System](https://github.com/rajlucifer/voting-system)
+### 🗳️ [Traditional Voting System](https://github.com/rajlucifer/voting-sytem)
 Full-featured MERN voting application.
 - JWT-based authentication
 - Email/SMS OTP verification
@@ -158,10 +162,12 @@ Full-featured MERN voting application.
 
 `MongoDB` `Express` `React` `Node.js`
 
+🔗 [Repo](https://github.com/rajlucifer/voting-sytem)
+
 </td>
 <td width="50%" valign="top">
 
-### 📝 [Task Manager API](https://github.com/rajlucifer/task-manager)
+### 📝 Task Manager API
 RESTful task management backend.
 - Full CRUD operations
 - Role-based access control
@@ -174,6 +180,7 @@ RESTful task management backend.
 </table>
 
 ### 🔐 [Blockchain Voting System](https://github.com/rajlucifer/Blockchain-voting-system) *(side project)*
+
 A decentralized voting platform on Ethereum with MetaMask login and on-chain vote counting — built to explore how a MERN frontend/backend pairs with a Solidity smart contract.
 
 `Solidity` `Web3.js` `React` `Node.js` `MongoDB` `Hardhat`
@@ -183,20 +190,20 @@ A decentralized voting platform on Ethereum with MetaMask login and on-chain vot
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=rajlucifer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9" />
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rajlucifer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=rajlucifer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9" alt="GitHub stats"/>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rajlucifer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9" alt="Top languages"/>
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-streak-stats-eight.vercel.app?user=rajlucifer&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=rajlucifer&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="GitHub streak"/>
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajlucifer&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=8A2BE2" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajlucifer&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=8A2BE2" alt="Contribution activity graph"/>
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=rajlucifer&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=rajlucifer&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8" alt="GitHub trophies"/>
 </div>
 
 <br/>
@@ -204,14 +211,14 @@ A decentralized voting platform on Ethereum with MetaMask login and on-chain vot
 ## 📈 Skill Progress
 
 ```text
-MERN Stack                 ██████████░░  90%
-React / Frontend           █████████░░░  85%
-Node.js / Express          █████████░░░  80%
-MongoDB                    ████████░░░░  75%
-Next.js                    ████████░░░░  70%
-TypeScript                 ███████░░░░░  60%
-AI-Assisted / Agentic Dev  ████████░░░░  70%
-Blockchain / Web3          █████░░░░░░░  40%
+MERN Stack                 ██████████████████░░  90%
+React / Frontend           █████████████████░░░  85%
+Node.js / Express          ████████████████░░░░  80%
+MongoDB                    ███████████████░░░░░  75%
+Next.js                    ██████████████░░░░░░  70%
+TypeScript                 ████████████░░░░░░░░  60%
+AI-Assisted / Agentic Dev  ██████████████░░░░░░  70%
+Blockchain / Web3          ████████░░░░░░░░░░░░  40%
 ```
 
 <br/>
@@ -255,8 +262,6 @@ You have unlocked: **Time Traveler** ⏳ — you just delegated a bug to a futur
 
 </details>
 
-<br/>
-
 <p align="center"><sub>Play again any time — the doors reset every visit. 😄</sub></p>
 
 <br/>
@@ -265,7 +270,7 @@ You have unlocked: **Time Traveler** ⏳ — you just delegated a bug to a futur
 
 ## 💬 Random Dev Wisdom
 
-<img width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote"/>
 
 </div>
 
@@ -275,10 +280,13 @@ You have unlocked: **Time Traveler** ⏳ — you just delegated a bug to a futur
 
 <div align="center">
 
-<a href="https://github.com/rajlucifer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://github.com/rajlucifer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://portfolio-website-ivory-theta-11.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8A7CA8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<!-- TODO: uncomment each badge after replacing the placeholder with your real link
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iNC45IiBjeT0iNC42IiByPSIyLjQiIGZpbGw9IiNGRkZGRkYiLz48cmVjdCB4PSIyLjgiIHk9IjkiIHdpZHRoPSI0LjMiIGhlaWdodD0iMTIuMiIgZmlsbD0iI0ZGRkZGRiIvPjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik05LjYgOWg0LjF2MS44Yy42LTEuMSAyLjEtMi4xIDQuMi0yLjEgNC4zIDAgNS4xIDIuOCA1LjEgNi41djYuMWgtNC4zdi01LjRjMC0xLjMgMC0yLjktMS44LTIuOXMtMi4xIDEuNC0yLjEgMi44djUuNUg5LjZ6Ii8+PC9zdmc+" alt="LinkedIn"/></a>
+<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://x.com/YOUR_X_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
+-->
 
 <br/><br/>
 
@@ -290,4 +298,4 @@ You have unlocked: **Time Traveler** ⏳ — you just delegated a bug to a futur
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:C9C9FF,100:FFDEE9&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:C9C9FF,100:FFDEE9&height=100&section=footer" width="100%" alt=""/>
