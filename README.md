@@ -125,6 +125,30 @@ A decentralized voting platform on Ethereum with MetaMask login and on-chain vot
   </picture>
 </p>
 
+### Contribution Streak
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rajlucifer&hide_border=true&background=0D1117&ring=8A7CA8&fire=8A7CA8&currStreakLabel=8A7CA8&currStreakNum=C9C9FF&sideNums=C9C9FF&sideLabels=C9C9FF&dates=8B8BA3">
+    <img width="100%" src="https://streak-stats.demolab.com?user=rajlucifer&hide_border=true&background=FFFFFF&ring=8A7CA8&fire=8A7CA8&currStreakLabel=8A7CA8&currStreakNum=4B4453&sideNums=4B4453&sideLabels=4B4453&dates=6B6B80" alt="GitHub contribution streak"/>
+  </picture>
+</p>
+
+### Daily Contributions (Past Year)
+
+<p align="center">
+  <img width="100%" src="https://ghchart.rshah.org/8A7CA8/rajlucifer" alt="Daily contribution calendar for the past year"/>
+</p>
+
+### Contribution Activity (Last 31 Days)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rajlucifer&bg_color=0D1117&color=C9C9FF&line=8A7CA8&point=FFFFFF&area=true&area_color=8A7CA8&hide_border=true">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajlucifer&bg_color=FFFFFF&color=4B4453&line=8A7CA8&point=4B4453&area=true&area_color=C9C9FF&hide_border=true" alt="GitHub contribution activity graph"/>
+  </picture>
+</p>
+
 ## Contact
 
 I'm open to collaboration on MERN and AI-assisted development projects. Feel free to reach out.
