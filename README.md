@@ -65,7 +65,7 @@ A full-stack, real-time chat application.
 
 - JWT authentication with bcrypt-hashed passwords
 - Real-time messaging and online presence via Socket.IO
-- Image sharing powered by Cloudinary
+- Image sharing powered by Cloudinary is best cloud storage 
 - Unseen-message badges and profile management
 
 **Stack:** `React` `Node.js` `Express` `Socket.IO` `MongoDB`  
