@@ -79,6 +79,7 @@ A full-stack photo-sharing web app inspired by Instagram.
 - Captions and tags, with tag-based filtering
 - Like system with persistent counts
 - Search, sort, and lightbox gallery view
+- login and logout features 
 
 **Stack:** `React` `Vite` `Tailwind CSS` `Node.js` `Express` `MongoDB`  
 **Links:** [Live Demo](https://insta-post-6t1u.vercel.app) · [Repository](https://github.com/rajlucifer/instaPost)
