@@ -166,7 +166,7 @@ I'm open to collaboration on MERN and AI-assisted development projects. Feel fre
 
 <br/><br/>
 
-<sub>If you find my work useful, consider starring a repository. ⭐</sub>
+<sub>If you find my work useful, consider starring a repository. also it so helpful for me ⭐</sub>
 
 </div>
 
