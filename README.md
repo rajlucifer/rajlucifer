@@ -152,7 +152,7 @@ A decentralized voting platform on Ethereum with MetaMask login and on-chain vot
 
 ## Contact
 
-I'm open to collaboration on MERN and AI-assisted development projects. Feel free to reach out.
+I'm open to collaboration on MERN and AI-assisted development projects. Feel free to reach out. you can do the mail to me for further info 
 
 <div align="center">
 
