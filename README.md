@@ -66,7 +66,7 @@ A full-stack, real-time chat application.
 - JWT authentication with bcrypt-hashed passwords
 - Real-time messaging and online presence via Socket.IO
 - Image sharing powered by Cloudinary is best cloud storage 
-- Unseen-message badges and profile management
+- Unseen-message badges
 
 **Stack:** `React` `Node.js` `Express` `Socket.IO` `MongoDB`  
 **Links:** [Live Demo](https://fast-chat-1h7c.vercel.app/) · [Repository](https://github.com/rajlucifer/fast-chat)
