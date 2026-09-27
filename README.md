@@ -48,7 +48,7 @@ I also practice **AI-assisted, spec-driven development**, using Claude, Antigrav
 
 ## AI-Assisted Engineering Workflow
 
-I use AI coding agents as a structured part of my development process, not just for one-off snippets.
+I use AI coding agents as a structured part of my development process, not just for one-off snippets. and this separate from the vibe code and real used of ai for code 
 
 | Principle | In practice |
 |:---|:---|
