@@ -22,7 +22,7 @@
 
 I'm a **MERN stack developer** who builds full-stack web applications end to end — from designing REST APIs and data models with **Node.js, Express, and MongoDB** to shipping clean, responsive interfaces in **React**. I focus on writing code that is scalable, well-structured, and easy for the next developer to work with.
 
-I also practice **AI-assisted, spec-driven development**, using Claude, Antigravity CLI/IDE, Codex, and DeepSeek alongside `design.md` and `agent.md` files to plan architecture before writing code. On the side, I explore Web3 and have built a Solidity-based voting DApp.
+I also practice **AI-assisted, spec-driven development**, using Claude, Antigravity CLI/IDE, Codex, and DeepSeek  different ai ,alongside `design.md` and `agent.md` files to plan architecture before writing code. On the side, I explore Web3 and have built a Solidity-based voting DApp.
 
 - **Building:** Full-stack applications with the MERN stack
 - **Learning:** Next.js, TypeScript, and advanced React patterns
