@@ -28,7 +28,7 @@ I also practice **AI-assisted, spec-driven development**, using Claude, Antigrav
 - **Learning:** Next.js, TypeScript, and advanced React patterns
 - **Exploring:** Agentic development workflows with Claude, Antigravity, Codex, and DeepSeek
 - **Open to:** Collaboration on MERN and AI-assisted projects
-- **2026 goal:** Ship production-ready software for real clients
+- **2026 goal:** Ship production-ready software for real clients and provide better services
 - **Ask me about:** MongoDB, Express, React, Node.js, REST APIs, Docker, and agentic AI coding
 this is my skills that i know 
 
