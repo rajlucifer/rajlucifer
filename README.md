@@ -107,7 +107,7 @@ A RESTful task management backend.
 **Stack:** `Node.js` `Express` `MongoDB`  
 <!-- Add the repository link here, e.g. **Links:** [Repository](https://github.com/rajlucifer/YOUR_REPO) -->
 
-### [Blockchain Voting System](https://github.com/rajlucifer/Blockchain-voting-system) *(side project)*
+### [Blockchain Voting System](https://github.com/rajlucifer/Blockchain-voting-system) 
 
 A decentralized voting platform on Ethereum with MetaMask login and on-chain vote counting, built to explore how a MERN application pairs with a Solidity smart contract.
 
