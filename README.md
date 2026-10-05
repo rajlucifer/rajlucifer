@@ -102,7 +102,7 @@ A RESTful task management backend.
 
 - Full CRUD operations
 - Role-based access control
-- Clean, scalable REST architecture
+- Clean, scalable REST architecture and design 
 
 **Stack:** `Node.js` `Express` `MongoDB`  
 <!-- Add the repository link here, e.g. **Links:** [Repository](https://github.com/rajlucifer/YOUR_REPO) -->
