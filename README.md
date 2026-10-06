@@ -92,6 +92,7 @@ A full-featured voting application built on the MERN stack.
 - JWT-based authentication
 - Email/SMS OTP verification
 - Live results dashboard
+- metamask wallet for block auth 
 
 **Stack:** `MongoDB` `Express` `React` `Node.js`  
 **Links:** [Repository](https://github.com/rajlucifer/voting-sytem)
